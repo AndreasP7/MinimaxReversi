@@ -1,0 +1,2 @@
+# MinimaxReversi
+Minimax Reversi(Othello)
